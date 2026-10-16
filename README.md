@@ -6,6 +6,7 @@ I build practical data tools, dashboards, and automation systems for real-world 
 
 ## Featured projects
 
+- [RB19 CFD Lab](https://github.com/Kharawat/rb19-cfd-lab) - Human-AI collaboration on RB19-inspired geometry refinement, surface repair and an OpenFOAM virtual wind tunnel. Surface checks passed; volume meshing and aerodynamic validation remain in progress.
 - [AI Investment Value Chain Map](https://github.com/Kharawat/ai-investment-value-chain-map-public) - Interactive AI investment dashboard with value-chain mapping, scenarios, and company research.
 - [AI Workflow Dashboard](https://github.com/Kharawat/ai-workflow-dashboard) - Visual dashboard for exploring automation workflows.
 - [AI Chatbot](https://github.com/Kharawat/ai-chatbot) - Responsive chatbot interface and product prototype.
@@ -17,6 +18,11 @@ I build practical data tools, dashboards, and automation systems for real-world 
 - Data analysis with Python and pandas
 - AI automation with Google Apps Script, Make, and n8n
 - Dashboard development and API-connected workflow tools
+- Blender geometry automation and reproducible CFD experiments
+
+## Building together with AI
+
+RB19 CFD Lab is co-designed and developed by **Phoom Kharawat and OpenAI Codex**: project direction, iterative geometry adaptations, repair workflows, validation and computational tooling. The project builds on **Redgrund's CC BY 4.0 visual model**, with the original creator credited in the repository. It is an independent learning and engineering portfolio project, not official Red Bull CAD or a validated reconstruction of the real car's aerodynamic performance.
 
 `Python` · `pandas` · `Google Apps Script` · `Make` · `n8n` · `JavaScript`
 
