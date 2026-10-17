@@ -6,7 +6,7 @@ I build practical data tools, dashboards, and automation systems for real-world 
 
 ## Featured projects
 
-- [RB19 CFD Lab](https://github.com/Kharawat/rb19-cfd-lab) - Human-AI collaboration on RB19-inspired geometry refinement, surface repair and an OpenFOAM virtual wind tunnel. Front/rear wings reconstructed with working Blender DRS. Native component and motion checks passed; a fresh whole-car CFD surface, volume mesh and aerodynamic validation remain required.
+- [RB19 CFD Lab](https://github.com/Kharawat/rb19-cfd-lab) - Human-AI collaboration on RB19-inspired geometry refinement, surface repair and an OpenFOAM virtual wind tunnel. Photo-informed wings with working DRS, a continuous underfloor/diffuser and deeper sidepod undercut. The underbody-only surface and native geometric passage checks passed; whole-car CFD surface repair, a fresh volume mesh and aerodynamic validation remain required.
 - [AI Investment Value Chain Map](https://github.com/Kharawat/ai-investment-value-chain-map-public) - Interactive AI investment dashboard with value-chain mapping, scenarios, and company research.
 - [AI Workflow Dashboard](https://github.com/Kharawat/ai-workflow-dashboard) - Visual dashboard for exploring automation workflows.
 - [AI Chatbot](https://github.com/Kharawat/ai-chatbot) - Responsive chatbot interface and product prototype.
